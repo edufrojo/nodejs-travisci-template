@@ -2,7 +2,7 @@
 
 NodeJS TravisCI template
 
-![nodejs-travisci-template](./screen.png)
+![nodejs-travisci-template](./assets/screen.png)
 
 [![HitCount](http://hits.dwyl.io/edufrojo/nodejs-travisci-template.svg)](http://hits.dwyl.io/edufrojo/nodejs-travisci-template)
 
